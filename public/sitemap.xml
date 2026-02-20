@@ -2,12 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reecancode.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reecancode.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reecancode.github.io/posts/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reecancode.github.io/tags/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sample/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sample-tutorial/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutorials/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/another-post/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/general/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/general/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/featured/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

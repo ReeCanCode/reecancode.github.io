@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>A blog by Mirza Mohibul Hasan (Refat)</title>
-    <link>https://reecancode.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on A blog by Mirza Mohibul Hasan (Refat)</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <atom:link href="https://reecancode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Tutorial</title>
+      <link>http://localhost:1313/posts/sample-tutorial/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sample-tutorial/</guid>
+      <description>A sample post with code blocks, image, table, and a callout.</description>
+    </item>
+    <item>
+      <title>Another Post</title>
+      <link>http://localhost:1313/posts/another-post/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/another-post/</guid>
+      <description>A regular post with minimal front matter for reference.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me and this blog.</description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>http://localhost:1313/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/featured/</guid>
+      <description>Highlighted posts worth a closer look.</description>
+    </item>
   </channel>
 </rss>
