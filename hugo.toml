@@ -1,0 +1,11 @@
+baseURL = "https://reecancode.github.io/"
+title = "A blog by Mirza Mohibul Hasan (Refat)"
+theme = "PaperMod"
+
+languageCode = "en-us"
+
+[params]
+  author = "Mirza Mohibul Hasan"
+  description = "Software Engineering | Cloud Engineering | AI/ML"
+  ShowReadingTime = true
+  ShowShareButtons = true
